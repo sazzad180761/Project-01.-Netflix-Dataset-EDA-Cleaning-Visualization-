@@ -27,11 +27,11 @@ Main Columns:
 
 Tools & Libraries Used :
 
-  import pandas as pd
-  import numpy as np
-  import matplotlib.pyplot as plt
-  import seaborn as sns
-  from wordcloud import WordCloud
+  01. import pandas as pd 
+  02. import numpy as np
+  03. import matplotlib.pyplot as plt
+  04. import seaborn as sns
+  05. from wordcloud import WordCloud
 
 EDA Steps Performed :
 
