@@ -11,18 +11,18 @@ Source: Netflix Titles on Kaggle
 Total Records: 8,808
 Main Columns:
 
-  show_id — Unique ID
-  type — Movie or TV Show
-  title — Name of the content
-  director — Director’s name
-  cast — Main actors
-  country — Production country
-  date_added — Released date
-  release_year — Year released
-  rating — Age rating
-  duration — Duration or number of seasons
-  listed_in — Genre category
-  description — Short summary
+  01. show_id — Unique ID
+  02. type — Movie or TV Show
+  03. title — Name of the content
+  04. director — Director’s name
+  05. cast — Main actors
+  06. country — Production country
+  07. date_added — Released date
+  08. release_year — Year released
+  09. rating — Age rating
+  10. duration — Duration or number of seasons
+  11. listed_in — Genre category
+  12. description — Short summary
 
 
 Tools & Libraries Used :
@@ -34,6 +34,7 @@ Tools & Libraries Used :
   from wordcloud import WordCloud
 
 EDA Steps Performed :
+
   01. Data Loading & Cleaning
   02. Handling Missing Values
   03. Data Type Correction (e.g. Date formatting)
